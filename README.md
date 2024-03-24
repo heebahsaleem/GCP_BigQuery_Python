@@ -1,1 +1,3 @@
-# GCP_BigQuery_Python
+# GCP_BigQuery_Python: [In progress]....
+
+https://medium.com/@saleemheebah4/gcp-bigquery-ffe82e460b06
